@@ -2,5 +2,5 @@ body {
   font-family: helvetica;
 }
 .bg {
-  background-image: url("broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://raw.githubusercontent.com/marcus-modlinski/Broadway/master/resources/images/the-flatiron-building.png");
 }
