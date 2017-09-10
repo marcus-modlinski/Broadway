@@ -38,6 +38,7 @@ p {
 }
 .footer {
   background-color: dimgray;
+  text-align: left;
 }
 #bottom {
   text-align: center
